@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "",
+    "description": "",
+    "price": 249.99,
+    "originalPrice": 299.99,
+    "rating": 4.8,
+    "ratingCount": 1247,
+    "image": "https://m.media-amazon.com/images/I/71w3pA+xEyL._AC_SL1500_.jpg",
+    "badge": "الأكثر مبيعًا",
+    "amazonLink": "https://amazon.com/product1"
+  }
+ 
+]
